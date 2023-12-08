@@ -1,0 +1,31 @@
+Task:
+Instructions to run the Image to PDF Converter  This Python program converts JPG image files into PDF format. To use this script, you will need to have installed Python 3.x and the img2pdf module.  1) Download the script file and its required modules.  2) Place the JPG images in a known directory.  3) Run the script from the command line by providing the directory path containing the images as an argument:      python image_to_pdf_converter.py path_to_directory  4) The script will create an output.pdf file in the same directory where the script is located.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+pdf
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

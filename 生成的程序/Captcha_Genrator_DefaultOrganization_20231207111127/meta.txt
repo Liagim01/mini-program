@@ -1,0 +1,31 @@
+Task:
+General Instructions:  1. Review and install any necessary external modules, libraries, and dependencies which provide the program with its required functionality.  2. Create the main program file, assigning it the appropriate name (e.g. main.py).  3. Within this file, include all the required modules, classes, and methods as specified by the code.  4. Create additional files for each class, and write the class code as demonstrated in the attached file.  5. Set up the data structures used by the program, and provide their necessary attributes and methods as indicated in the program.  6. Make sure to initialize any variables as necessary.  7. Follow the main program flow as indicated by the attached code.  8. Handle any potential errors or exceptions in a robust and stable manner.  9. Finally, provide the variable inputs to the program and receive the expected outputs or behaviors.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+website
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+9.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

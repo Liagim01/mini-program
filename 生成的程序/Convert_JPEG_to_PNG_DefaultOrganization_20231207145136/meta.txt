@@ -1,0 +1,31 @@
+Task:
+Instructions to Recreate Program  This program is designed to convert images in JPEG format to the PNG format.  Requirements: 1. A system with Python 3.x installed 2. Pillow module installed with pip  To use the terminal-based script: 1. Place a JPEG image named ‘input.jpeg’ in the same directory as the script.  2. Run the terminal script (e.g., ‘converter_terminal.py’):  `python converter_terminal.py` 3. The converted PNG image will be saved in the same directory.  To use the GUI-based script: 1. Run the GUI script (e,g., ‘converter_GUI.py’):  `python converter_GUI.py` 2. Select a JPEG image and choose the desired location to save the converted PNG file. 3. Error handling for the case of an image not being selected.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+gui
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+1
+

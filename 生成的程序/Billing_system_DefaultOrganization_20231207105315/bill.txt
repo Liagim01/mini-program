@@ -1,0 +1,14 @@
+Customer Name: 3
+Customer Email: 5
+Customer Phone: 1
+
+Product Details:
+-----------------
+Product Name: 4
+Product Price: 6.0
+Product Quantity: 8
+Total Price: 48.0
+Total Taxes: 4.800000000000001
+-----------------
+Total Price: 48.0
+Total Taxes: 4.800000000000001

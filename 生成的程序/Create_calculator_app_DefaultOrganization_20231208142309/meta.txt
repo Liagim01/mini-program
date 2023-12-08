@@ -1,0 +1,31 @@
+Task:
+` Instructions to Recreate the Simple Calculator Application: 1. Download and install the Python 3 development environment. 2. Download the python script  calculator.py’. 3. Launch the commandline and document (terminal/command prompt). 4. Navigate to the folder containing the  calculator.py  file. 5. Use the following command to start the program: python calculator.py 6. The graphical user interface will open containing a calculator. 7. Enter mathematical expressions using the provided buttons. 8. Use the buttons for addition (+), subtraction (-), multiplication (*), and division (/). 9. Clear the input field by pressing the  C  button. 10. Remove the last character from the input field using the  <-  button. 11. Calculate exponentiation using the  ^  button. 12. The application will handle any attempts to divide by zero and display an alert. 13. Close the program by clicking the  Quit  button. 14. You can now perform operations with the Simple Calculator Application.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

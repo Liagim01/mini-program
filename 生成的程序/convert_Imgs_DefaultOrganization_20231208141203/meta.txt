@@ -1,0 +1,31 @@
+Task:
+Instructions: This program provides tools to convert images between JPG and PNG formats. It is written in Python 3 and requires the Pillow module. To use this program, follow the steps below: 1. Install Python 3 and the Pillow module by running the following command: ` bash pip install Pillow ` 2. Download the program files to a local directory. 3. For dynamic conversion within a directory, copy convertDynamic.py into the directory with the images and run the script. This will convert all JPG images to PNG and all PNG images to JPG in the present directory and sub-directories. 4. For converting individual images from JPG to PNG, place the JPG image in the same directory as JPGtoPNG.py, edit JPGtoPNG.py to replace  naruto_first.jpg  with the name of your input JPG file and  naruto.png  with your desired output PNG file name. Then, run the command python JPGtoPNG.py 5. For converting individual images from PNG to JPG, place the PNG image in the same directory as PNGtoJPG.py, edit PNGtoJPG.py to replace  naruto_first.png  with the name of your input PNG file and  naruto.jpg  with your desired output JPG file name. Then, run the command python PNGtoJPG.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+5
+

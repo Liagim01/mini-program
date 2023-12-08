@@ -1,0 +1,7 @@
+
+In this updated version, we import the `argparse` module and define the command-line arguments using `argparse.ArgumentParser`. We specify three arguments: `-p` or `--path` for the absolute path to store screenshots, `-t` or `--type` for the desired time unit for screenshot frequency, and `-f` or `--frequency` for the number of screenshots to take per specified time unit.
+
+We then create an instance of the `ScreenshotProgram` class with the provided arguments and call the `run()` method to start the screenshot program.
+
+Now, users can customize the script parameters by running the main.py file with the appropriate command-line arguments. For example:
+

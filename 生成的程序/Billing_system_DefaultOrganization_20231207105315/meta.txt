@@ -1,0 +1,31 @@
+Task:
+## Instructions for Recreating the Billing System   The Billing System is a comprehensive application built using Python and Tkinter, aimed at simplifying the billing process in various types of stores. Implementing the system requires knowledge of the Python programming language and the Tkinter GUI package. Follow the steps below to install and execute the code.   1. Install Python on your system.   2. Install the external modules tk, os, and messagebox by running the command pip install tk in the terminal.  3. Save the script as illing_system.py.  4. Run the script using the command python billing_system.py in your terminal.  5. Use the graphical user interface (GUI) to add product details, input customer information, and generate a comprehensive bill.   6. The application stores bills as text files, allowing for easy search and retrieval of past bills.  7. The program automatically calculates the total price and taxes based on the input quantities.   8. Error and exception handling is built into the system, ensuring stability and robustness.  The following modules and features are available in the Billing System:  - Product Management  - Dynamic Billing  - Customer Information Tracking - Bill Generation and Storage  - Bill Search - User Interface
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

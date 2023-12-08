@@ -1,0 +1,31 @@
+Task:
+Instructions for Recreating this Program:   This program will convert a given PDF file to a text file.   1) Download and import the required modules for the program. These modules include:  - io: allows reading and writing of files - PyPDF2: provides the methods for reading and writing PDFs  - os: provides access to operating system dependent functionality  2) Create the following classes which will form the foundation of the program.  - FileManager: this class is responsible for handling file operations, including reading and writing.  - PDFParser: this class will parse PDF files and process them for use in the program.  - PDFExporter: this class will handle the conversion of PDFs into text files.   3) Declare the main program flow by initializing the necessary modules and classes and calling the defined methods.  The main program flow will include:  - Instantiating the FileManager to open the PDF file and store it as a variable.  - Passing the stored PDF to an instance of the PDFParser class, which will extract the file's content.  - Instantiating the PDFExporter class, which will handle outputting the processed PDF to a text format.  4) Set up the program ways for user input and expected output.  - Input: The program will accept a PDF file from the user as input.  - Output: Upon successful completion, the program should return a text version of the given PDF prompt.   5) Prepare your program for unexpected errors and exceptions. This can be done by specifically handling potential errors that may arise during runtime, such as invalid inputs or incorrect data formats.   6) If necessary, add any external libraries and dependencies that are used in the code. This may include additional modules such as pathlib or re, depending on the purpose of the program.   7) Structure your code into various files. This may include a main.py file for the main program flow, a PDFParser.py file for storing the PDFParser class, and an ExportPDF.py file which will control the text conversion and output.   After all steps have been completed, the program should be fully functional and able to convert a PDF to a text file.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+pdf
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

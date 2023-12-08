@@ -1,0 +1,31 @@
+Task:
+Instructions to Recreating the Program:   This program is designed to extract all hyperlinks from a specified webpage and save them to a text file. To recreate the program, follow these steps:  1. Download and install the required modules specified in the prerequisites section. This includes the BeautifulSoup4 and requests modules.  2. Open your terminal or command prompt and navigate to the directory where the script (get_links.py) is located.  3. Execute the script by running: python get_links.py. When prompted, enter the URL of the webpage you want to analyze.  4. The script will process the webpage and store all extracted links as an array in a file named myLinks.txt in the same directory.  5. After successful execution, you'll find a file named myLinks.txt in the script's directory. This file contains all the hyperlinks extracted from the specified webpage stored as an array.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+python script
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

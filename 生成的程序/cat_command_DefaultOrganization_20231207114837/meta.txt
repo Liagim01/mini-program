@@ -1,0 +1,31 @@
+Task:
+Instructions to recreate this program:  1. Install Python 3.x and any external dependencies required.   2. Download the program's code from the relevant source.   3. Examine the code and note the names and attributes of any modules, classes, and data structures used as well as the main program flow.   4. Run the script using either the commands ./cat.py [path_to_file] or python ./cat.py [path_to_file] in the command line.  5. To read and print a text file, input the path of the desired file alongside the command to execute it.   6. Once the script is running, review how it processes inputs and presents outputs.   7. Finally, observe how the program handles errors and exceptions, and define how to add code if further error handling is necessary.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

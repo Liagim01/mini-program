@@ -1,0 +1,31 @@
+Task:
+Instructions: To create this program you will need the following: Python 3.x, the python-wechaty package and its dependencies. Once all dependencies are installed, run the chatbot script using the command  python bot.py . The chatbot should respond with ‘dong’ when it receives the message ‘ding’. It is equipped with various functionalities, such as automated text responses, image handling, mini-program interaction, and room member and friendship management. To interact with the chatbot, send specific text commands, images, and mini-programs. Special commands can be used for room management, like adding or removing members. The chatbot is composed of a MyBot class which inherits from Wechaty and defines event-handling behavior, and a main function which initializes and starts the chatbot.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+software application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
